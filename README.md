@@ -11,3 +11,5 @@ Se prueba la camara la cual podemos cargar una imagen, cambiar de camara frontal
 ![image](https://user-images.githubusercontent.com/38759831/128805437-d952acc8-8013-418a-b5ad-27859d040d00.png)
 * Se guarda nuestra imagen es nuestro dispocitivo.
 ![image](https://user-images.githubusercontent.com/38759831/128805671-c986e539-25ba-414a-b869-43b5dcabe403.png)
+* Se puede eliminar o cancelar la operacion dando click en la imagen que deseemos.
+![image](https://user-images.githubusercontent.com/38759831/128805828-3bec20fc-566b-4036-a3b2-25b8469f524e.png)
